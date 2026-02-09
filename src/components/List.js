@@ -3,9 +3,9 @@ import React, {useState} from 'react'
 export default function List(props) {
     const [items, setItems] = useState([]);
     const result = items.map((item, index) => (
-  <tr key={index}>
-    <td>{item}</td>
-  </tr>
+    <tr key={index}>
+      <td>{item}</td>
+    </tr>
 ));
 
     const addItem = () => {
