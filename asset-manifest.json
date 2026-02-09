@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.47f03e2e.css",
-    "main.js": "/static/js/main.24e8293e.js",
-    "static/js/453.fd2f0c4a.chunk.js": "/static/js/453.fd2f0c4a.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.47f03e2e.css.map": "/static/css/main.47f03e2e.css.map",
-    "main.24e8293e.js.map": "/static/js/main.24e8293e.js.map",
-    "453.fd2f0c4a.chunk.js.map": "/static/js/453.fd2f0c4a.chunk.js.map"
+    "main.css": "/kavyahegde2005/to-do_list_using-react.git/static/css/main.47f03e2e.css",
+    "main.js": "/kavyahegde2005/to-do_list_using-react.git/static/js/main.2da7b138.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/kavyahegde2005/to-do_list_using-react.git/static/js/453.fd2f0c4a.chunk.js",
+    "static/media/logo.svg": "/kavyahegde2005/to-do_list_using-react.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kavyahegde2005/to-do_list_using-react.git/index.html",
+    "main.47f03e2e.css.map": "/kavyahegde2005/to-do_list_using-react.git/static/css/main.47f03e2e.css.map",
+    "main.2da7b138.js.map": "/kavyahegde2005/to-do_list_using-react.git/static/js/main.2da7b138.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/kavyahegde2005/to-do_list_using-react.git/static/js/453.fd2f0c4a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47f03e2e.css",
-    "static/js/main.24e8293e.js"
+    "static/js/main.2da7b138.js"
   ]
 }
